@@ -23,7 +23,8 @@ from .serializers import (
     InvitationSerializer, InvitationCreateSerializer, InvitationResponseSerializer,
     AuditLogSerializer, UserSessionSerializer, PublicProfileSerializer,
     RoleSerializer, MFADeviceSerializer, MFASetupSerializer, MFAVerificationSerializer,
-    SAMLConfigurationSerializer, OIDCConfigurationSerializer, SSOInitiateSerializer
+    SAMLConfigurationSerializer, OIDCConfigurationSerializer, SSOInitiateSerializer,
+    ForcedPasswordChangeSerializer
 )
 from .tasks import (
     send_welcome_email, send_verification_email, send_password_reset_email, send_invitation_email,

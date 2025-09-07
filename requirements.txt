@@ -30,3 +30,4 @@ google-auth-httplib2
 msal
 zoomus
 tenacity
+django-debug-toolbar
