@@ -1,0 +1,19 @@
+INFO 2025-09-07 11:55:23,142 autoreload 14244 13636 Watching for file changes with StatReloader
+INFO 2025-09-07 11:55:23,650 schemas 14244 13636 Resource 'XMLSchema.xsd' is already loaded
+INFO 2025-09-07 12:08:58,262 schemas 2648 8976 Resource 'XMLSchema.xsd' is already loaded
+WARNING 2025-09-07 12:08:58,652 utils 2648 8976 django-csp could not be found, not updating Content-Security-Policy. Please make sure CSP is configured. This can be done by your reverse proxy, django-csp or a custom CSP handler via SAML_CSP_HANDLER. See https://djangosaml2.readthedocs.io/contents/security.html#content-security-policy for more information. This warning can be disabled by setting `SAML_CSP_HANDLER=''` in your settings.
+INFO 2025-09-07 12:09:38,770 schemas 6308 1564 Resource 'XMLSchema.xsd' is already loaded
+WARNING 2025-09-07 12:09:39,130 utils 6308 1564 django-csp could not be found, not updating Content-Security-Policy. Please make sure CSP is configured. This can be done by your reverse proxy, django-csp or a custom CSP handler via SAML_CSP_HANDLER. See https://djangosaml2.readthedocs.io/contents/security.html#content-security-policy for more information. This warning can be disabled by setting `SAML_CSP_HANDLER=''` in your settings.
+INFO 2025-09-07 12:16:04,432 schemas 11688 10276 Resource 'XMLSchema.xsd' is already loaded
+WARNING 2025-09-07 12:16:04,820 utils 11688 10276 django-csp could not be found, not updating Content-Security-Policy. Please make sure CSP is configured. This can be done by your reverse proxy, django-csp or a custom CSP handler via SAML_CSP_HANDLER. See https://djangosaml2.readthedocs.io/contents/security.html#content-security-policy for more information. This warning can be disabled by setting `SAML_CSP_HANDLER=''` in your settings.
+INFO 2025-09-07 12:20:23,418 schemas 11976 13632 Resource 'XMLSchema.xsd' is already loaded
+WARNING 2025-09-07 12:20:23,776 utils 11976 13632 django-csp could not be found, not updating Content-Security-Policy. Please make sure CSP is configured. This can be done by your reverse proxy, django-csp or a custom CSP handler via SAML_CSP_HANDLER. See https://djangosaml2.readthedocs.io/contents/security.html#content-security-policy for more information. This warning can be disabled by setting `SAML_CSP_HANDLER=''` in your settings.
+INFO 2025-09-07 12:24:21,209 schemas 2320 10860 Resource 'XMLSchema.xsd' is already loaded
+WARNING 2025-09-07 12:24:21,585 utils 2320 10860 django-csp could not be found, not updating Content-Security-Policy. Please make sure CSP is configured. This can be done by your reverse proxy, django-csp or a custom CSP handler via SAML_CSP_HANDLER. See https://djangosaml2.readthedocs.io/contents/security.html#content-security-policy for more information. This warning can be disabled by setting `SAML_CSP_HANDLER=''` in your settings.
+INFO 2025-09-07 12:25:01,339 schemas 6632 12596 Resource 'XMLSchema.xsd' is already loaded
+WARNING 2025-09-07 12:25:01,720 utils 6632 12596 django-csp could not be found, not updating Content-Security-Policy. Please make sure CSP is configured. This can be done by your reverse proxy, django-csp or a custom CSP handler via SAML_CSP_HANDLER. See https://djangosaml2.readthedocs.io/contents/security.html#content-security-policy for more information. This warning can be disabled by setting `SAML_CSP_HANDLER=''` in your settings.
+INFO 2025-09-07 12:27:44,376 schemas 6688 13604 Resource 'XMLSchema.xsd' is already loaded
+INFO 2025-09-07 12:28:48,911 schemas 8640 13604 Resource 'XMLSchema.xsd' is already loaded
+INFO 2025-09-07 12:30:41,826 schemas 6308 2880 Resource 'XMLSchema.xsd' is already loaded
+INFO 2025-09-07 12:37:11,919 schemas 8196 9848 Resource 'XMLSchema.xsd' is already loaded
+INFO 2025-09-07 12:40:06,389 schemas 6324 13852 Resource 'XMLSchema.xsd' is already loaded
